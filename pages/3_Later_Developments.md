@@ -3,8 +3,8 @@
 # Interesting Links
 
 - [Beginnings](1_Beginnings.md)
-- [Concepts](./pages/2_Concepts.md)
-- [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
+- [Concepts](2_Concepts.md)
+- [10 Facts that you might not know](10_Facts_Graffiti.md)
 
 ## Mainstream Acceptance
 Street Art continues to be a popular category of art all over the world, with many of its practitioners rising to fame and mainstream success (such as Bristol's Banksy, Paris' ZEVS, and L.A.'s Shepard Fairey). Street artists who experience commercial success are often criticized by their peers for "selling out" and becoming part of the system that they had formerly rebelled against by creating illegal public works. Communications professor Tracey Bowen sees the act of creating graffiti as both a "celebration of existence" and "a declaration of resistance." Similarly, Slovenian Feminist author Tea Hvala views graffiti as "the most accessible medium of resistance" for oppressed people to use against dominant culture due to its tactical (non-institutional, decentralized) qualities. For both Bowen and Hvala these unique positive attributes of graffiti are heavily reliant on its location in urban public spaces. Art critic and curator Johannes Stahl argues that the public context is crucial for Street Art to be political, because "it happens in places that are accessible to all [and] it employs a means of expression that is not controlled by the government." Street artist BOOKSIIII holds an opinion not uncommon of many of today's street artists, that it is not inherently wrong for young artists to try to make money from galleries and corporations for their works, "as long as they do their job honestly, sell work, and represent careers," yet at the same time he notes that "graffiti does not stay the same when transferred to the gallery from the street. A tag on canvas will never hold the same power as the exact same tag on the street."

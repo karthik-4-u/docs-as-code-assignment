@@ -2,9 +2,9 @@
 
 # Interesting Links
 
-- [Concepts](./pages/2_Concepts.md)
-- [Later Developments](./pages/3_Later_Developments.md)
-- [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
+- [Concepts](2_Concepts.md)
+- [Later Developments](3_Later_Developments.md)
+- [10 Facts that you might not know](10_Facts_Graffiti.md)
 
 
 ## Precursors to Contemporary Graffiti and Street Art

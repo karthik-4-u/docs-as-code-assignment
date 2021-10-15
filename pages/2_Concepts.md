@@ -2,9 +2,9 @@
 
 # Interesting Links
 
-- [Beginnings](./pages/1_Beginnings.md)
-- [Later Developments](./pages/3_Later_Developments.md)
-- [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
+- [Beginnings](1_Beginnings.md)
+- [Later Developments](3_Later_Developments.md)
+- [10 Facts that you might not know](10_Facts_Graffiti.md)
 
 ## Concept and Styles
 Since the turn of the millennium, this proliferation has continued, with artists using all sorts of materials to complete illegal works in pubic spaces. The myriad approaches have come to be housed under the label of "Street Art" (sometimes also referred to as "Urban Art"), which has expanded its purview beyond graffiti to include these other techniques and styles.
