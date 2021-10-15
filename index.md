@@ -19,7 +19,7 @@ Graffiti is a controversial subject. In most countries, marking or painting prop
 - [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
 
 ## Sections in this page
-- [Personal Expression](a-1)
+
 
 
 
