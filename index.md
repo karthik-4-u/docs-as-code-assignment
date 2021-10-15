@@ -13,8 +13,8 @@ Graffiti is a controversial subject. In most countries, marking or painting prop
 ![Graffiti](./assets/img/Graffiti.jpg)
 
 # Interesting Links
-[Beginnings](/pages/1_Beginnings)
-[Concepts](/pages/2_Concepts)
+[Beginnings](/pages/1_Beginnings.md)
+[Concepts](/pages/2_Concepts.md)
 [Later Developments](./pages/3_Later_Developments.md)
 [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
 
