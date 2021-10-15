@@ -33,18 +33,18 @@ Banksy is one of the world's most notorious and popular street artists who conti
 {% include commercial.md %}
 
 ## Documentaries
-- 80 Blocks from Tiffany's (1979): A rare glimpse into late 1970s New York toward the end of the infamous South Bronx gangs, the documentary shows many sides of the mainly Puerto Rican community of the South Bronx, including reformed gang members, current gang members, the police, and the community leaders who try to reach out to them.
-- Stations of the Elevated (1980), the earliest documentary about subway graffiti in New York City, with music by Charles Mingus
-- Style Wars (1983), an early documentary on hip hop culture, made in New York City
-- Piece by Piece (2005), a feature-length documentary on the history of San Francisco graffiti from the early 1980s
-- Infamy (2005), a feature-length documentary about graffiti culture as told through the experiences of six well-known graffiti writers and a graffiti buffer
-- NEXT: A Primer on Urban Painting (2005), a documentary about global graffiti culture
-- RASH (2005), a feature documentary about Melbourne, Australia and the artists who make it a living host for street art
-- Jisoe (2007): A glimpse into the life of a Melbourne, Australia, graffiti writer shows the audience an example of graffiti in struggling Melbourne Areas.
-- Roadsworth: Crossing the Line (2009), about Montréal artist Peter Gibson and his controversial stencil art on public roads
-- Exit Through The Gift Shop (2010) was produced by the notorious artist Banksy. It tells the story of Thierry Guetta, a French immigrant in Los Angeles, and his obsession with street art; Shepard Fairey and Invader, whom Guetta discovers is his cousin, are also in the film.
-- Still on and non the wiser (2011) is a ninety-minute-long documentation that accompanies the exhibition with the same name in the Kunsthalle Barmen of the Von der Heydt-Museum in Wuppertal (Germany). It draws vivid portrayals of the artists by means of very personal interviews and also catches the creation process of the works before the exhibition was opened.
-- Graffiti Wars (2011), a documentary detailing King Robbo's feud with Banksy as well as the authorities' differing attitude towards graffiti and street art
+- **80 Blocks from Tiffany's (1979)** - A rare glimpse into late 1970s New York toward the end of the infamous South Bronx gangs, the documentary shows many sides of the mainly Puerto Rican community of the South Bronx, including reformed gang members, current gang members, the police, and the community leaders who try to reach out to them.
+- **Stations of the Elevated (1980)** - The earliest documentary about subway graffiti in New York City, with music by Charles Mingus
+- **Style Wars (1983)** - An early documentary on hip hop culture, made in New York City
+- **Piece by Piece (2005)** - A feature-length documentary on the history of San Francisco graffiti from the early 1980s
+- **Infamy (2005)** - A feature-length documentary about graffiti culture as told through the experiences of six well-known graffiti writers and a graffiti buffer
+- **NEXT** - A Primer on Urban Painting (2005), a documentary about global graffiti culture
+- **RASH (2005)**  - A feature documentary about Melbourne, Australia and the artists who make it a living host for street art
+- **Jisoe (2007)** - A glimpse into the life of a Melbourne, Australia, graffiti writer shows the audience an example of graffiti in struggling Melbourne Areas.
+- **Roadsworth: Crossing the Line (2009)** - About Montréal artist Peter Gibson and his controversial stencil art on public roads
+- **Exit Through The Gift Shop (2010)** - Produced by the notorious artist Banksy. It tells the story of Thierry Guetta, a French immigrant in Los Angeles, and his obsession with street art; Shepard Fairey and Invader, whom Guetta discovers is his cousin, are also in the film.
+- **Still on and non the wiser (2011)** - A ninety-minute-long documentation that accompanies the exhibition with the same name in the Kunsthalle Barmen of the Von der Heydt-Museum in Wuppertal (Germany). It draws vivid portrayals of the artists by means of very personal interviews and also catches the creation process of the works before the exhibition was opened.
+- **Graffiti Wars (2011)** - A documentary detailing King Robbo's feud with Banksy as well as the authorities' differing attitude towards graffiti and street art
 
 ### DRAMAS
 {% for item in site.data.drama %}
