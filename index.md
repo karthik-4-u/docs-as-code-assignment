@@ -1,5 +1,5 @@
 ---
-title: Graffiti Page
+title: Page on Graffiti
 layout: docs-as-code_template
 author: Karthik
 ---
@@ -10,7 +10,7 @@ author: Karthik
 
 Graffiti is a controversial subject. In most countries, marking or painting property without permission is considered by property owners and civic authorities as defacement and vandalism, which is a punishable crime, citing the use of graffiti by street gangs to mark territory or to serve as an indicator of gang-related activities. Graffiti has become visualized as a growing urban "problem" for many cities in industrialized nations, spreading from the New York City subway system in the early 1970s to the rest of the United States and Europe and other world regions.
 
-![Graffiti](/assets/img/Graffiti.jpg "Graffiti")
+![Graffiti](./assets/img/Graffiti.jpg)
 
 ## Personal expression
 Many graffitists choose to protect their identities and remain anonymous or to hinder prosecution.
