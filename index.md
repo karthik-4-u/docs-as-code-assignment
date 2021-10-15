@@ -48,7 +48,6 @@ Banksy is one of the world's most notorious and popular street artists who conti
 
 ### DRAMAS
 {% for item in site.data.drama %}
-- {{item.year}}:{{item.drama}}:{{item.about}}
+- {{item.year}} : {{item.drama}} : {{item.about}}
 {% endfor %}
 
-<div align="right"> [Beginnings](./pages/1_Beginnings.md) </div>
