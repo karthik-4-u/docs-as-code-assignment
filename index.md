@@ -30,3 +30,7 @@ Banksy is one of the world's most notorious and popular street artists who conti
 - Exit Through The Gift Shop (2010) was produced by the notorious artist Banksy. It tells the story of Thierry Guetta, a French immigrant in Los Angeles, and his obsession with street art; Shepard Fairey and Invader, whom Guetta discovers is his cousin, are also in the film.
 - Still on and non the wiser (2011) is a ninety-minute-long documentation that accompanies the exhibition with the same name in the Kunsthalle Barmen of the Von der Heydt-Museum in Wuppertal (Germany). It draws vivid portrayals of the artists by means of very personal interviews and also catches the creation process of the works before the exhibition was opened.
 - Graffiti Wars (2011), a documentary detailing King Robbo's feud with Banksy as well as the authorities' differing attitude towards graffiti and street art
+
+{% for item in site.data.drama %}
+- {{item.year}}:{{item.drama}}:{{item.about}}
+{% endfor %}
