@@ -2,7 +2,6 @@
 
 # Interesting Links
 
-- [Home](https://github.com/karthik-4-u/docs-as-code-assignment/main/index.md)
 - [Concepts](2_Concepts.md)
 - [Later Developments](3_Later_Developments.md)
 - [10 Facts that you might not know](10_Facts_Graffiti.md)
