@@ -1,7 +1,7 @@
 # Beginnings of Street and Graffiti Art
 
 # Interesting Links
-- [Home](index)
+- [Home](index.md)
 - [Concepts](./pages/2_Concepts.md)
 - [Later Developments](./pages/3_Later_Developments.md)
 - [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
