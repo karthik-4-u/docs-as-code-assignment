@@ -18,8 +18,12 @@ Graffiti is a controversial subject. In most countries, marking or painting prop
 - [Later Developments](./pages/3_Later_Developments.md)
 - [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
 
+## Sections in this page
+- [Personal Expression](a-1)
 
-## Personal expression
+
+
+# Personal Expression {#a-1}
 Many graffitists choose to protect their identities and remain anonymous or to hinder prosecution.
 
 With the commercialization of graffiti (and hip hop in general), in most cases, even with legally painted "graffiti" art, graffitists tend to choose anonymity. This may be attributed to various reasons or a combination of reasons. Graffiti still remains the one of four hip hop elements that is not considered "performance art" despite the image of the "singing and dancing star" that sells hip hop culture to the mainstream. Being a graphic form of art, it might also be said that many graffitists still fall in the category of the introverted archetypal artist.
@@ -28,7 +32,7 @@ Banksy is one of the world's most notorious and popular street artists who conti
 
 {% include commercial.md %}
 
-### Documentaries
+## Documentaries
 - 80 Blocks from Tiffany's (1979): A rare glimpse into late 1970s New York toward the end of the infamous South Bronx gangs, the documentary shows many sides of the mainly Puerto Rican community of the South Bronx, including reformed gang members, current gang members, the police, and the community leaders who try to reach out to them.
 - Stations of the Elevated (1980), the earliest documentary about subway graffiti in New York City, with music by Charles Mingus
 - Style Wars (1983), an early documentary on hip hop culture, made in New York City
