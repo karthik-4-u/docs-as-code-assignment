@@ -2,7 +2,7 @@
 
 # Interesting Links
 
-- [Beginnings](./pages/1_Beginnings.md)
+- [Beginnings](1_Beginnings.md)
 - [Concepts](./pages/2_Concepts.md)
 - [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)
 
