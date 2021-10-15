@@ -1,10 +1,14 @@
 ---
 title: Page on Graffiti
 layout: docs-as-code_template
-author: Karthik
+author: Karthik Sundararajan
 ---
 
 # Graffiti
+
+{page.title}
+
+Curated by {page.author}
 
 **Graffiti** is writing or drawings made on a wall or other surface, usually without permission and within public view. _Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times, with examples dating back to ancient Egypt, ancient Greece, and the Roman Empire._
 
