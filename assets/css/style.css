@@ -2,4 +2,6 @@ h1 {color:blueviolet;}
 h2 {color:goldenrod;}
 h3 {color:blue}
     p{color:green;}
-ul.a{list-style-type: square; color: brown;}
+    
+    ul {list-style-type: square; 
+        background-color: brown;}
