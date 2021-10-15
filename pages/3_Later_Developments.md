@@ -1,7 +1,7 @@
 # Later Developments - After Street and Graffiti Art
 
 # Interesting Links
-- [Home](index.md)
+
 - [Beginnings](./pages/1_Beginnings.md)
 - [Concepts](./pages/2_Concepts.md)
 - [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)

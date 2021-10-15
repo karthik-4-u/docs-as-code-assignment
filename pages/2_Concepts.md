@@ -1,7 +1,7 @@
 # Concepts and Styles
 
 # Interesting Links
-- [Home](index.md)
+
 - [Beginnings](./pages/1_Beginnings.md)
 - [Later Developments](./pages/3_Later_Developments.md)
 - [10 Facts that you might not know](./pages/10_Facts_Graffiti.md)

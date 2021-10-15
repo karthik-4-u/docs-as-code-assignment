@@ -1,7 +1,7 @@
 # 10 Facts you Don’t know about Graffiti!
 
 # Interesting Links
-- [Home](index.md)
+
 - [Beginnings](./pages/1_Beginnings.md)
 - [Concepts](./pages/2_Concepts.md)
 - [Later Developments](./pages/3_Later_Developments.md)
