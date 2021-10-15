@@ -8,7 +8,7 @@ author: Karthik Sundararajan
 
 **{{page.title}}**
 
-Curated by **{{page.author}}**
+Curated by {{page.author}}**
 
 **Graffiti** is writing or drawings made on a wall or other surface, usually without permission and within public view. _Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times, with examples dating back to ancient Egypt, ancient Greece, and the Roman Empire._
 
@@ -55,3 +55,4 @@ Banksy is one of the world's most notorious and popular street artists who conti
 - {{item.year}} : {{item.drama}} : {{item.about}}
 {% endfor %}
 
+Here is the link to [IBM](./pages/IBM.md) page.
